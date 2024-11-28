@@ -8,4 +8,6 @@ There are six of them:
 - ball on beam
 - control moment gyroscope
 
+I also simulated the behavior of a spinning top at the end of the Python file to illustrate the gyroscopic effect.
+
 Control Systems Library is required to run the code.
