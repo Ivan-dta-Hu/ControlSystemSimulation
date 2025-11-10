@@ -3,6 +3,8 @@ I developed a Python script to simulate various models using full-state feedback
 There are six of them:
 - inverted pendulum on wheel (aka balancing robot)  
 ![image](https://github.com/Ivan-dta-Hu/ControlSystemSimulation/blob/main/gif/InvertedPendulumOnWheel.gif)
+- inverted pendulum on wheel on slope (aka balancing robot)  
+![image](https://github.com/Ivan-dta-Hu/ControlSystemSimulation/blob/main/gif/InvertedPendulumOnWheelOnSlope.gif)
 - reaction on inverted pendulum  
 ![image](https://github.com/Ivan-dta-Hu/ControlSystemSimulation/blob/main/gif/ReactionWheelOnInvertedPendulum.gif)
 - inverted pendulum on cart  
