@@ -1,6 +1,6 @@
 I developed a Python script to simulate various models using full-state feedback and a Kalman filter. The models, along with the equation derivations, are detailed in the accompanying PDF file.
 
-There are six of them:
+There are seven of them:
 - inverted pendulum on wheel (aka balancing robot)  
 ![image](https://github.com/Ivan-dta-Hu/ControlSystemSimulation/blob/main/gif/InvertedPendulumOnWheel.gif)
 - inverted pendulum on wheel on slope (aka balancing robot)  
